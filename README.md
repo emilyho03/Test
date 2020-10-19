@@ -2,10 +2,7 @@
 
 ---
 
-Chicken Nuggets
-<<<<<<< HEAD
+Chicken NuggeTrying to merge into the master
 
-hihi 
-=======
-Trying to merge into the master
->>>>>>> 4de7dcd914e9ec108fad141d31122a1f2519dd84
+
+helloooo
